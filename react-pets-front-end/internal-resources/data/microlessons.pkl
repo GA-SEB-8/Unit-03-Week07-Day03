@@ -1,0 +1,74 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+environmentVariablesInVite = new Template.Microlesson {
+  friendlyName = "Environment Variables in Vite"
+  dirName = "environment-variables-in-vite"
+  type = "Content"
+  videoUrl = ""
+}
+
+intro = new Template.Microlesson {
+  friendlyName = "Intro"
+  dirName = "intro"
+  type = "Content"
+  videoUrl = ""
+}
+
+readIndex = new Template.Microlesson {
+  friendlyName = "Read Index"
+  dirName = "read-index"
+  type = "Content"
+  videoUrl = ""
+}
+
+readShow = new Template.Microlesson {
+  friendlyName = "Read Show"
+  dirName = "read-show"
+  type = "Content"
+  videoUrl = ""
+}
+
+buildTheCreateForm = new Template.Microlesson {
+  friendlyName = "Build the Create Form"
+  dirName = "build-the-create-form"
+  type = "Content"
+  videoUrl = ""
+}
+
+createAndDisplayANewPet = new Template.Microlesson {
+  friendlyName = "Create and Display a New Pet"
+  dirName = "create-and-display-a-new-pet"
+  type = "Content"
+  videoUrl = ""
+}
+
+update = new Template.Microlesson {
+  friendlyName = "Update"
+  dirName = "update"
+  type = "Content"
+  videoUrl = ""
+}
+
+del = new Template.Microlesson {
+  friendlyName = "Delete"
+  dirName = "delete"
+  type = "Content"
+  videoUrl = ""
+}
+
+addCss = new Template.Microlesson {
+  friendlyName = "Add CSS"
+  dirName = "add-css"
+  type = "Content"
+  videoUrl = ""
+}
+
