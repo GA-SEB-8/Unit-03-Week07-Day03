@@ -18,8 +18,6 @@ You'll implement full CRUD operations, allowing users to interact freely with th
 
 ### Necessary middleware
 
-- **CORS middleware**: Implement [CORS middleware](https://www.npmjs.com/package/cors) to enable cross-origin requests, ensuring the React frontend can interact seamlessly with the Express back-end.
-- **Method Override middleware**: Implement [Method Override middleware](https://www.npmjs.com/package/method-override) so you're able to use HTTP verbs such as `PUT` and `DELETE`.
 - **`express.json()` middleware**: Implement Express' built-in `express.json()` middleware to parse incoming requests with JSON payloads.
 
 ### API requirements
